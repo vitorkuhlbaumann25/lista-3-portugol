@@ -1,0 +1,50 @@
+1. Verificação de maioridade
+Peça ao usuário sua idade. Se ele tiver 18 anos ou mais, exiba "Maior de idade".
+
+2. Par ou ímpar
+Leia um número inteiro e informe se ele é par ou ímpar.
+
+3. Verificar senha
+Peça para o usuário digitar uma senha. Se for igual a "1234", mostre "Acesso permitido", senão "Acesso negado".
+
+4. Nota do aluno
+Peça a nota de um aluno (de 0 a 10) e mostre:
+
+"Aprovado" se for maior ou igual a 7
+
+"Recuperação" se for entre 5 e 6.9
+
+"Reprovado" se for menor que 5
+
+5. Calculadora simples
+Leia dois números e uma operação (+, -, *, /). Use escolha ... caso para mostrar o resultado da operação.
+
+6. Mês do ano
+Peça ao usuário um número de 1 a 12 e mostre o nome do mês correspondente com escolha ... caso. Se for um número inválido, exiba "Mês inválido".
+
+7. Número positivo ou negativo
+Leia um número e diga se ele é positivo, negativo ou zero.
+
+8. Verificar múltiplos
+Peça um número e diga se ele é múltiplo de 3, múltiplo de 5, ambos, ou nenhum.
+
+9. Turno da escola
+Peça ao usuário que informe seu turno com uma letra:
+
+M: Matutino
+
+V: Vespertino
+
+N: Noturno
+Mostre a mensagem correspondente. Se digitar outra letra, informe "Turno inválido".
+
+10. Calculadora de IMC
+Peça o peso e a altura do usuário, calcule o IMC e classifique:
+
+Abaixo de 18.5: "Abaixo do peso"
+
+De 18.5 a 24.9: "Peso normal"
+
+De 25 a 29.9: "Sobrepeso"
+
+Acima de 30: "Obesidade"
